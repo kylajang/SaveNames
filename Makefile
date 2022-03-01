@@ -1,5 +1,5 @@
 CC := g++
-CFLAGS := -Wall -pedantic --std=c++17
+CFLAGS := -Wall -pedantic -g --std=c++17
 
 # My Variables
 	PART1_EXE_NAME := lab11-main
